@@ -1,21 +1,8 @@
+# Edutraion Internship Tasks
 
-#  Edutraion Internship Tasks
+## ✅ Task 1: Movie Genre Classifier  
+A genre classification tool built using machine learning and Gradio interface. It classifies a movie genre based on its plot description.
 
-Welcome to my internship submissions for **Edutraion**. Each task was a great learning experience and i had quite fun doing them.
-
----
-
-# Tasks Overview
-
-### 🔹 [Task 1 – Movie Genre Classifier](./Task-1_MovieGenreClassifier)
-> Predict the genre of a movie based on its plot using **TF-IDF** and **Naive Bayes**, with a web interface built using **Gradio**.
-
-📁 Files:
-- `app.py` – Gradio interface
-- `.pkl` files – trained model, vectorizer, and label encoder  
-- `README.md` – explanation and instructions
-
----
-
-
+## ✅ Task 2: Advanced Customer Churn Prediction  
+A churn prediction model using Logistic Regression and Random Forest, deployed with Gradio on Hugging Face. Includes full preprocessing, EDA, model training, and deployment.
 
